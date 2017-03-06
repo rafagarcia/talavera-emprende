@@ -1,0 +1,560 @@
+{
+  "introduccion": "La actual situación de Talavera es el motivo de que las administraciones públicas, partidos políticos, agentes sociales y organizaciones empresariales nos unamos para elaborar este documento, con una serie de medidas para afrontar los proyectos necesarios para cambiar la tendencia del elevado desempleo, la baja productividad y la pérdida de las señas de identidad de la ciudad",
+  "promotores": [
+    "AYUNTAMIENTO DE TALAVERA DE LA REINA",
+    "PARTIDO POPULAR TALAVERA",
+    "PSOE TALAVERA",
+    "GANEMOS TALAVERA",
+    "CIUDADANOS TALAVERA",
+    "PODEMOS TALAVERA",
+    "PARTIDO ANIMALISTA TALAVERA",
+    "FEPEMTA",
+    "FEDETO",
+    "ASOCIACIÓN DEL COMERCIO DE TALAVERA",
+    "ASOCIACIÓN DE EMPRESARIOS, INDUSTRIALES Y PROPIETARIOS DE TERRENO DEL POLÍGONO DE TORREHIERRO",
+    "FEDERACION DE VECINOS VEGAS DEL TAJO",
+    "COMISIONES OBRERAS TALAVERA",
+    "UNIÓN GENERAL DE TRABAJADORES TALAVERA",
+    "ASOCIACION PROVINCIAL DE ARTESANÍA Y CERÁMICA",
+    "REGANTES DEL CANAL BAJO DEL ALBERCHE",
+    "CONSEJO LOCAL DE LA JUVENTUD"
+  ],
+  "compromiso": "Anteposición de las prioridades e intereses de Talavera de la Reina y sus gentes a cualquier estrategia y limitación política, a cualquier imposición, cortapisa o relegación impuesta explícita o implícita por cualquier organización, en el ámbito local, regional o nacional. Informar desde la transparencia, honestidad y la verdad a la población sobre la situación de la ciudad",
+  "finalidad": "Elaboración de un documento estratégico a corto, medio y largo plazo que constituya la base para la puesta en marcha de acciones destinadas a la reducción del desempleo, el desarrollo económico y el fin de la pobreza y la depresión social",
+  "medidas": [
+    {
+      "id": 1,
+      "areas": [
+        "INFRAESTRUCTURAS"
+      ],
+      "objetivos": "SERVICIO INTERURBANO DE AUTOBUSES (ÁREA METROPOLITANA)",
+      "finalizacion": "2017",
+      "administraciones": [
+        "AYUNTAMIENTOS DE LOS MUNICIPIOS IMPLICADOS",
+        "DIPUTACIÓN",
+        "JUNTA DE COMUNIDADES",
+        "GOBIERNO CENTRAL"
+      ],
+      "compromisos": [
+        "DECISIÓN POLÍTICA",
+        "CONVENIO",
+        "DECISIÓN PRESUPUESTARIA"
+      ],
+      "descripcion": "Creación de un área metropolitana, en la que se mejore la comunicación de los pueblos de las Tierras de Talavera con la ciudad. Mayor frecuencia de autobuses",
+      "impacto": "Mejora del transporte de viajeros entre los pueblos de las Tierras de Talavera y la ciudad. Incremento de la actividad comercial. Facilidad de acceso a los servicios públicos y sociales como centros de enseñanza o de salud. Mayor integración comarcal"
+    },
+    {
+      "id": 2,
+      "areas": [
+        "INFRAESTRUCTURAS"
+      ],
+      "objetivos": "CERRAMIENTO DE LA CIRCUNVALACIÓN SUR DE TALAVERA",
+      "finalizacion": "2017",
+      "administraciones": [
+        "JUNTA DE COMUNIDADES",
+        "AYUNTAMIENTO"
+      ],
+      "compromisos": [
+        "DECISIÓN POLÍTICA",
+        "DECISIÓN PRESUPUESTARIA"
+      ],
+      "descripcion": " Terminación de la conexión entre la circunvalación sur de Talavera hasta la carretera N-502 con doble vía. Conversión de la N-502 en la autovía con un horizonte temporal más amplio de 2020",
+      "impacto": "Mejora el transporte de mercancías y vehículos entre Madrid, Córdoba y Extremadura. Descongestión del tráfico en el casco urbano e integración de la zona sur de Talavera en el conjunto del municipio"
+    },
+    {
+      "id": 3,
+      "areas": [
+        "INFRAESTRUCTURAS"
+      ],
+      "objetivos": "DESDOBLAMIENTO DE LA ANTIGUA CARRETERA NV DESDE LA AUTOVIA AL CASCO URBANO DE TALAVERA",
+      "finalizacion": "2019",
+      "administraciones": [
+        "AYUNTAMIENTO DE TALAVERA DE LA REINA",
+        "AYUNTAMIENTO DE PEPINO",
+        "AYUNTAMIENTO DE CAZALEGAS",
+        "GOBIERNO CENTRAL"
+      ],
+      "compromisos": [
+        "CONVENIO DE COLABORACIÓN",
+        "DECISIÓN POLÍTICA",
+        "DECISIÓN PRESUPUESTARIA"
+      ],
+      "descripcion": "Desdoblamiento de la antigua N-V a desde la salida de la autovía en el término de Cazalegas hasta el casco urbano de Talavera de la Reina y desde la Salida de la autovía en el término de Talavera en su conexión con Extremadura-Portugal hasta el casco urbano",
+      "impacto": "Mejora de las comunicaciones en las entradas y salidas de la ciudad. Mejora de la seguridad vial, conexión más rápida con los polígonos industriales. Mejora estética de las entradas y salidas de la ciudad"
+    },
+    {
+      "id": 4,
+      "areas": [
+        "INFRAESTRUCTURAS"
+      ],
+      "objetivos": "DESDOBLAMIENTO DE LA VÍA DE FERROCARRIL Y ELECTRIFICACIÓN DE LA MISMA CON TREN DE ALTAS PRESTACIONES O ALTA VELOCIDAD",
+      "finalizacion": "2019",
+      "administraciones": [
+        "GOBIERNO CENTRAL"
+      ],
+      "compromisos": [
+        "DECISIÓN POLÍTICA",
+        "DECISIÓN PRESUPUESTARIA"
+      ],
+      "descripcion": "Desdoblamiento de la vía de ferrocarril, electrificándola, incluyendo el ancho europeo y con uso para transporte de pasajeros y mercancías. Dicha infraestructura incluiría una parada de mercancías en el nodo logístico, así como un servicio de Altas Prestaciones o Alta Velocidad, que nos permitíría acortar el tiempo del trayecto a Madrid",
+      "impacto": " Mejora del transporte de pasajeros entre Madrid y Talavera y nuestra conexión con Extremadura y en un futuro con Lisboa. Mejora del tráfico de mercancías de Portugal con España y el resto de la Unión Europea. La infraestructura acortaría los trayectos entre Talavera y Madrid, permitiría una mayor frecuencia de trenes y contribuiría a la mejora del medio ambiente"
+    },
+    {
+      "id": 5,
+      "areas": [
+        "INFRAESTRUCTURAS"
+      ],
+      "objetivos": "NODO LOGÍSTICO - PUERTO SECO",
+      "finalizacion": "2020",
+      "administraciones": [
+        "JUNTA DE COMUNIDADES",
+        "GOBIERNO CENTRAL",
+        "UNIÓN EUROPEA"
+      ],
+      "compromisos": [
+        "DECISIÓN POLÍTICA",
+        "CONVENIO",
+        "DECISIÓN PRESUPUESTARIA"
+      ],
+      "descripcion": "Creación de un nodo logístico y puerto seco en Talavera de la Reina con todos los servicios de este tipo de infraestructuras dentro del eje Atlántico que une el puerto de Sines y Lisboa con el centro y norte de Europa",
+      "impacto": "Mejora en el transporte de mercancías, distribución y servicios a los operadores logísticos. Incremento del empleo en el área de Talavera de la Reina. Dotar a la ciudad de una importancia económica dentro de las redes comerciales europeas"
+    },
+    {
+      "id": 6,
+      "areas": [
+        "INFRAESTRUCTURAS"
+      ],
+      "objetivos": "DESARROLLO DEL POLÍGONO DE TORREHIERRO EN SU TOTALIDAD",
+      "finalizacion": "2018",
+      "administraciones": [
+        "AYUNTAMIENTO",
+        "GOBIERNO CENTRAL",
+        "SEPES"
+      ],
+      "compromisos": [
+        "DECISIÓN POLÍTICA",
+        "CONVENIO",
+        "DECISIÓN PRESUPUESTARIA"
+      ],
+      "descripcion": "1ª Fase: inversión de en torno a un millón de euros para: Mejora de entradas y salidas. Plan de asfaltado y señalización de paneles informativos. Mejora de la red de abastecimiento, saneamiento y depuración de aguas. Mejora de las redes de comunicaciones con fibra óptica de gran capacidad así como máxima cobertura en 4G y 5G. Mejora de la vigilancia y seguridad. Mejora de la red eléctrica realizada por fases, para que un corte de energía no afecte a todo el polígono. Ampliación de los usos del suelo. Medidas que permitan la utilización del mismo para los fines previstos y que eviten la especulación. 2ª Fase: compromiso de desarrollo y promoción de la 2 Fase en su totalidad con cargo de los presupuestos de SEPES y ejecución según los plazos del convenio firmado hasta la fecha. Medidas que permitan la utilización del mismo para los fines previstos y que eviten la especulación",
+      "impacto": "Disponibilidad de suelo suficiente para atender las demandas de implantación de nuevas empresas que favorezca la reactivación económica en la zona. Mejora de la competitividad de las empresas ya instaladas"
+    },
+    {
+      "id": 7,
+      "areas": [
+        "INDUSTRIA Y EMPLEO"
+      ],
+      "objetivos": "DECLARACIÓN DE TALAVERA COMO ZONA DE PREFERENTE DESARROLLO E INDUSTRIALIZACIÓN",
+      "finalizacion": "2020",
+      "administraciones": [
+        "AYUNTAMIENTO DE TALAVERA",
+        "GOBIERNO CENTRAL",
+        "JUNTA DE COMUNIDADES"
+      ],
+      "compromisos": [
+        "DECISIÓN POLÍTICA",
+        "CONSIGNACIÓN PRESUPUESTARIA"
+      ],
+      "descripcion": "Acción exterior de captación de inversiones e instalación de empresas en la ciudad, con la consecuente generación de puestos de trabajo. Creación de instrumentos de coordinación entre las instituciones y organismos que se ocupan de la promoción económica para situar a Talavera como objetivo en la captación de inversiones. Declaración por parte de la administración central y regional de Talavera como Zona de Preferente Desarrollo e Industrialización, con compromiso real y tangible de localización de empresas, y dedicando partidas presupuestarias concretas en los presupuestos de cada administración. Potenciación de las posibilidades, los apoyos, las ayudas y los incentivos económicos para la implantación de proyectos industriales en la ciudad. Creación de 5.000 puestos de trabajo en este mandato mediante un proyecto real de industrialización, fomentando sectores endógenos competitivos, como agropecuario ecológico y cooperativo; creación de transformadoras y comercializadoras, canales de consumo corto y medio, recuperación de la cabecera comarcal y territorial en el sector primario y de servicios",
+      "impacto": "Dinamización empresarial y económica de la ciudad, con la consecuente generación de empleo y fijación de población. Captación de inversiones y empresas."
+    },
+    {
+      "id": 8,
+      "areas": [
+        "SECTOR PRIMARIO"
+      ],
+      "objetivos": "PROYECTO DE MODERNIZACIÓN DE REGADÍOS",
+      "finalizacion": "2020",
+      "administraciones": [
+        "GOBIERNO CENTRAL",
+        "JUNTA DE COMUNIDADES"
+      ],
+      "compromisos": [
+        "DECISIÓN POLÍTICA PARA EJECUTAR EL PROYECTO YA PRESUPUESTADO"
+      ],
+      "descripcion": "Actualización y ejecución del proyecto del año 2005 de modernización de regadíos de la zona regable del Alberche, mejorando la red principal de regadíos. Ejecución de forma conjunta y sincronizada de la red secundaria y los sistemas de riego en parcela mediante pívots, rangers, aspersores, goteo, etc.",
+      "impacto": "Reducción del consumo de agua. Fomento de nuevos cultivos y ampliación de los existentes. Instalación de nuevas industrias y cooperativas agroalimentarias. Nuevas empresas vinculadas: riegos, fertilizantes, maquinaria, etc. Creación de empleo. "
+    },
+    {
+      "id": 9,
+      "areas": [
+        "SECTOR PRIMARIO",
+        "COMERCIO Y TURISMO"
+      ],
+      "objetivos": "CREACIÓN MARCA DE CALIDAD COMARCAL 'TIERRAS DE TALAVERA'",
+      "finalizacion": "2020",
+      "administraciones": [
+        "AYUNTAMIENTO DE TALAVERA",
+        "DIPUTACIÓN",
+        "JUNTA DE COMUNIDADES",
+        "ADC-TIERRAS DE TALAVERA"
+      ],
+      "compromisos": [
+        "CONVENIO INTERADMINISTRATIVO",
+        "IMPLICACIÓN DE LAS ORGANIZACIONES EMPRESARIALES, SINDICALES, AGRARIAS Y DE OTRA ÍNDOLE IMPLICADAS"
+      ],
+      "descripcion": "Potenciación de la marca de calidad comarcal 'Tierras de Talavera' para la identificación de los productos y servicios de nuestra área, atrayendo así y aumentando el consumo local, fomentando la mejora de esta oferta, y facilitando el apoyo institucional a su comercialización exterior. Creación de estándares de calidad y promoción de la marca como sello diferenciador de los productos de la zona",
+      "impacto": "Mejora en las economías locales de la ciudad y la comarca. Defensa y promoción de nuestros intereses comunes. Impulso turístico propio como comarca. Aumento de la competitividad de los sectores incluidos en la marca de calidad. Canales cortos de comercialización y distribución"
+    },
+    {
+      "id": 10,
+      "areas": [
+        "DEPORTE"
+      ],
+      "objetivos": "CIRCUITO PERMANENTE DEL CERRO NEGRO",
+      "finalizacion": "2019",
+      "administraciones": [
+        "AYUNTAMIENTO DE TALAVERA",
+        "DIPUTACIÓN",
+        "JUNTA DE COMUNIDADES",
+        "GOBIERNO CENTRAL"
+      ],
+      "compromisos": [
+        "DECISIÓN POLÍTICA",
+        "VIABILIDAD TÉCNICA Y ECONÓMICA"
+      ],
+      "descripcion": "Establecimiento del circuito del Cerro Negro como permanente. Mejora de las instalaciones, aparcamientos y vestuarios",
+      "impacto": "Mejora de instalaciones deportivas, creación de puestos de trabajo. Dotación a Talavera de una infraestructura deportiva de carácter internacional"
+    },
+    {
+      "id": 11,
+      "areas": [
+        "EDUCACIÓN"
+      ],
+      "objetivos": "CREACIÓN DE UN CONSERVATORIO PROFESIONAL DE MÚSICA Y DANZA DE GRADO MEDIO",
+      "finalizacion": "2016",
+      "administraciones": [
+        "AYUNTAMIENTO DE TALAVERA",
+        "JUNTA DE COMUNIDADES"
+      ],
+      "compromisos": [
+        "DECISIÓN POLÍTICA"
+      ],
+      "descripcion": "Creación del Conservatorio de Grado Medio de Música y Danza en Talavera de la Reina compatible con la Escuela Municipal de Danza y con la misma financiación que el resto de conservatorios de Castilla la Mancha",
+      "impacto": "Mejora de la educación, puestos de trabajo, formación."
+    },
+    {
+      "id": 12,
+      "areas": [
+        "DEPORTE"
+      ],
+      "objetivos": "CENTRO DE TECNIFICACIÓN DE DEPORTES DE AGUA",
+      "finalizacion": "2017",
+      "administraciones": [
+        "AYUNTAMIENTO DE TALAVERA",
+        "JUNTA DE COMUNIDADES"
+      ],
+      "compromisos": [
+        "DECISIÓN POLÍTICA",
+        "VIABILIDAD TÉCNICA Y ECONÓMICA"
+      ],
+      "descripcion": " Creación de un centro de alto rendimiento de deportes fluviales con instalaciones adecuadas para la promoción y formación de futuros atletas de estos deportes",
+      "impacto": "Mejora de las instalaciones deportivas, educación, promoción turística y convertir Talavera en referente nacional de estas modalidades deportivas"
+    },
+    {
+      "id": 13,
+      "areas": [
+        "EDUCACIÓN"
+      ],
+      "objetivos": "CREACIÓN DE UNA SEDE PARA LA ESCUELA OFICIAL DE IDIOMAS, INCREMENTO DE GRADO DE INGLÉS Y CREACIÓN DE NUEVOS ESTUDIOS",
+      "finalizacion": "2017",
+      "administraciones": [
+        "JUNTA DE COMUNIDADES"
+      ],
+      "compromisos": [
+        "DECISIÓN POLÍTICA"
+      ],
+      "descripcion": "Construcción de un nuevo centro para la Escuela Oficial de Idiomas dotado de todos los medios para el aprendizaje de lenguas. Incremento al grado máximo de los estudios de lengua inglesa C1/C2 y ampliación a nuevos idiomas como el chino",
+      "impacto": "Mejora de la educación, puestos de trabajo, formación"
+    },
+    {
+      "id": 14,
+      "areas": [
+        "EDUCACIÓN"
+      ],
+      "objetivos": "FORMACIÓN PROFESIONAL",
+      "finalizacion": "2019",
+      "administraciones": [
+        "JUNTA DE COMUNIDADES"
+      ],
+      "compromisos": [
+        "DECISIÓN POLÍTICA"
+      ],
+      "descripcion": "Ampliación de los estudios de Ciclos Formativos de Grado Medio y Grado Superior de Formación Profesional. Adecuación de la oferta educativa a la demanda del mercado laboral y a los sectores productivos a impulsar",
+      "impacto": "Cambio inmediato de la tendencia de las cifras del desempleo juvenil en nuestra ciudad y comarca. Mejora de la cualificación de la población juvenil y de su acceso al mercado laboral"
+    },
+    {
+      "id": 15,
+      "areas": [
+        "EDUCACIÓN",
+        "INVESTIGACIÓN"
+      ],
+      "objetivos": "CAMPUS UNIVERSITARIO: AMPLIACIÓN DE ENSEÑANZAS E INSTALACIONES Y CONSOLIDACIÓN DEL CAMPUS UNIVERSITARIO",
+      "finalizacion": "2019",
+      "administraciones": [
+        "AYUNTAMIENTO DE TALAVERA",
+        "RECTORADO DE LA UNIVERSIDAD DE CASTILLA LA MANCHA",
+        "JUNTA DE COMUNIDADES",
+        "UNIÓN EUROPEA"
+      ],
+      "compromisos": [],
+      "descripcion": "Creación de nuevas instalaciones: Nuevo edificio para la Facultad de Terapia Ocupacional, Enfermería y Logopedia con laboratorios y áreas de investigación. Nuevo edificio que incluya una biblioteca amplia y un espacio de encuentro para los alumnos. Zonas deportivas. Incremento de titulaciones acordes con la realidad económica y social de la comarca, fortaleciendo las áreas actuales, así como las salidas profesionales. Se sugieren Veterinaria, Psicología e Informática, entre otras. Creación de un Instituto de Investigación, inclusión social y políticas públicas, dada la existencia una gran dotación económica por parte de la UE. Ampliación de máster y estudios de postgrado. Ampliación de plazas en la residencia de estudiantes. Todo esto encaminado a darle a Talavera la entidad de Campus Universitario.",
+      "impacto": "Incremento cultural y educativo e impulso económico en cuanto a inversiones, puestos de trabajo, capital humano y de investigación, clave para el futuro económico de las Tierras de Talavera. Generación de líneas de colaboración y coordinación entre la Universidad y las demás entidades públicas y privadas de la zona, aumentando la visibilidad de la labor de esta institución"
+    },
+    {
+      "id": 16,
+      "areas": [
+        "SANIDAD"
+      ],
+      "objetivos": "HOSPITAL UNIVERSITARIO NUESTRA SEÑORA DEL PRADO",
+      "finalizacion": "2016",
+      "administraciones": [
+        "JUNTA DE COMUNIDADES"
+      ],
+      "compromisos": [
+        "DECISIÓN POLÍTICA"
+      ],
+      "descripcion": "Compromiso de la Administración de acreditar al Hospital Nuestra Señora del Prado como Universitario. Reconocimiento inmediato, puesto que ya ejerce como tal al albergar a estudiantes de Enfermería, Fisioterapia y Terapia Ocupacional. Ampliación de la cartera de servicios y dotación de medios personales y materiales acorde a esta categoría. Equiparación a otros hospitales de la región como Albacete, Ciudad Real o Guadalajara. Priorización del Hospital de Talavera en la ampliación de la red de hospitales universitarios en el ámbito de la Medicina",
+      "impacto": "Reconocimiento y prestigio del Hospital de Talavera acorde con el nivel de atención que presta en este momento. Aumento y mejora de los servicios y de la atención sanitaria. Mejora en el campo de la investigación"
+    },
+    {
+      "id": 17,
+      "areas": [
+        "SERVICIOS SOCIALES"
+      ],
+      "objetivos": "CONSOLIDACIÓN DEL ESTADO DE BIENESTAR EN TALAVERA Y COMARCAS",
+      "finalizacion": "2020",
+      "administraciones": [
+        "AYUNTAMIENTO DE TALAVERA",
+        "AYUNTAMIENTOS DE LA COMARCA",
+        "JUNTA DE COMUNIDADES",
+        "GOBIERNO CENTRAL"
+      ],
+      "compromisos": [
+        "DECISIÓN POLÍTICA",
+        "DECISIÓN PRESUPUESTARIA",
+        "CONVENIO DE COLABORACIÓN"
+      ],
+      "descripcion": "Compromiso de las administraciones competentes para garantizar: a) El refuerzo y el desarrollo del sistema de Servicios Sociales en nuestra ciudad y comarca, que garantice la cobertura universal de las prestaciones básicas del sistema público. b) La sostenibilidad del Estado de Bienestar, que debe ser una absoluta prioridad para todas las administraciones, tanto desde el punto de vista político, como social y financiero. c) La tramitación de la cesión al Ayuntamiento de las viviendas públicas: Situadas entre Capitán Cortes y Plaza Alférez Rojas, inicialmente de los peones camineros. Además de las pertenecientes a GICAMAN ubicadas en los Turieles. Realización de las gestiones necesarias para incrementar el parque de viviendas sociales, con todas las que sean susceptibles de cualquier organismo o entidades. d) La apuesta por la planificación conjunta entre administraciones responsables de las políticas sociales, incluyendo la debida formación y contratación de sus profesionales y trabajadores. e) Los derechos de accesibilidad en todos los ámbitos de actuación de este decálogo y de una forma transversal en la vida cotidiana de la ciudad",
+      "impacto": "Consolidación y mejora de la oferta de servicios sociales"
+    },
+    {
+      "id": 18,
+      "areas": [
+        "SERVICIOS SOCIALES"
+      ],
+      "objetivos": "ATENCIÓN A LA EMERGENCIA SOCIAL",
+      "finalizacion": "2020",
+      "administraciones": [
+        "AYUNTAMIENTO DE TALAVERA",
+        "JUNTA DE COMUNIDADES",
+        "GOBIERNO CENTRAL"
+      ],
+      "compromisos": [
+        "DECISIÓN POLÍTICA",
+        "DECISIÓN PRESUPUESTARIA"
+      ],
+      "descripcion": "Apoyo efectivo a las personas con insuficiencias de ingresos para el acceso a las necesidades básicas (alimentación, agua, electricidad, a la vivienda, sanidad, educación). Dotación económica estable durante toda la legislatura por parte de todas las administraciones (mínimo un millón de euros anual a nivel municipal). Dotación de profesionales para el acompañamiento y tramitación urgente de las ayudas, así como para la información de los recursos existentes. Coordinación de recursos entre todas las administraciones para que no se produzca una descoordinación que impida un desarrollo eficaz de la atención a la emergencia social",
+      "impacto": "Entre todas las personas que necesitan protección en Talavera"
+    },
+    {
+      "id": 19,
+      "areas": [
+        "SERVICIOS SOCIALES"
+      ],
+      "objetivos": "INSTITUTO DE CIENCIAS DE LA SALUD",
+      "finalizacion": "2020",
+      "administraciones": [
+        "JUNTA DE COMUNIDADES"
+      ],
+      "compromisos": [
+        "DECISIÓN POLÍTICA",
+        "DECISIÓN PRESUPUESTARIA"
+      ],
+      "descripcion": "Recuperación e incremento de los puestos de trabajo suprimidos en estos los últimos años, muchos de ellos correspondientes a personal altamente cualificado. Fomento de la labor de formación, documentación e investigación como referente regional, favoreciendo la participación en proyectos europeos. Colaboración con la Universidad, dentro otras colaboraciones, para la creación de una Unidad Docente Clínico Asistencial. Creación de un Laboratorio regional en materia de aguas y medio ambiente ubicado en este centro. Creación de una Unidad de Media Estancia de salud mental. Potenciación los programas de salud pública en la región, centralizando dicha actividad en el Instituto de Ciencias de la Salud. Facilidad en los mecanismos de comunicación con la opinión pública de las actividades y logros del centro",
+      "impacto": "Reconocimiento y prestigio del Instituto de Ciencias de la Salud. Aumento y mejora en el campo de la investigación, formación y actuaciones en materia de salud pública a nivel regional. Recuperación y creación de puestos de trabajo en su mayor parte altamente cualificados. Refuerzo de la labor de la Universidad en las áreas de Ciencias Sociales y de la Salud en la ciudad"
+    },
+    {
+      "id": 20,
+      "areas": [
+        "ECONOMÍA, SOCIAL Y CULTURA"
+      ],
+      "objetivos": "RECONOCIMIENTO DE LA UNESCO DE LA CERÁMICA DE TALAVERA COMO BIEN INMATERIAL DE LA HUMANIDAD ",
+      "finalizacion": "2018",
+      "administraciones": "",
+      "compromisos": [
+        "DECISIÓN INSTITUCIONAL"
+      ],
+      "descripcion": "Impulso para que la cerámica artesana de Talavera de la Reina y El Puente del Arzobispo sea reconocida por la UNESCO como Bien Inmaterial de la Humanidad, contribuyendo a la valoración y el reconocimiento de la forma de trabajo artesana y su aportación a la cultura, la tradición y a los valores populares",
+      "impacto": "Reconocimiento de una tradición y de unas maneras populares que durante siglos han mantenido la cerámica artesanal de Talavera de la Reina y El Puente del Arzobispo. Potenciación nacional e internacional de la cerámica artesana de las dos localidades. Traslado al sector productivo y económico de nuevas vías de difusión, comercialización y producción que puedan verse beneficiadas por el reconocimiento"
+    },
+    {
+      "id": 21,
+      "areas": [
+        "PATRIMONIO Y TURISMO"
+      ],
+      "objetivos": "PATRIMONIO HISTÓRICO ARTÍSTICO",
+      "finalizacion": "2018",
+      "administraciones": [
+        "AYUNTAMIENTO DE TALAVERA",
+        "DIPUTACIÓN",
+        "JUNTA DE COMUNIDADES",
+        "GOBIERNO CENTRAL"
+      ],
+      "compromisos": [
+        "DECISIÓN POLÍTICA"
+      ],
+      "descripcion": "Declaración del Casco Antiguo como Conjunto Histórico Artístico. Este nombramiento facilitaría la llegada de inversiones con objeto de la mejora del Casco Antiguo así como su difusión cultural del mismo y la difusión turística. Traspaso de las competencias en Patrimonio al Ayuntamiento. Se agilizarían todos los trámites para la conservación, tratamiento y restauración del patrimonio histórico artístico bien a través del propio Ayuntamiento o de una fundación tal y como es en Toledo. Plan especial de recuperación de los recintos amurallados, Alcázar de Abderramán III, Entretorres y Charcón. Recuperación de la Casa de los Canónigos, dotándole de un uso turístico. Segregación del Museo Ruiz de Luna del Museo de Santa Cruz con el fin de darle una entidad propia y mayor desarrollo. Mejora y fomento de la red de caminos públicos comarcales. Creación de un Plan Director de Turismo, que coordine las actuaciones en Talavera y comarca. Establecimiento de un calendario de prioridades y actuaciones en función del estado de deterioro o amenaza de ruina de los elementos del patrimonio que se consideren (patrimonio arqueológico, inmueble, industrial, etnográfico e inmaterial). Configuración de un plan de actuación de mejora del paisaje urbano, especialmente en el casco histórico de la ciudad y sus aledaños",
+      "impacto": "Mejora en el entorno y edificios, puestos de trabajo, fomento del turismo."
+    },
+    {
+      "id": 22,
+      "areas": [
+        "FERIAS Y CONGRESOS"
+      ],
+      "objetivos": "CIUDAD DE FERIAS, CONGRESOS Y EVENTOS CULTURALES Y DEPORTIVOS",
+      "finalizacion": "2019",
+      "administraciones": [
+        "AYUNTAMIENTO DE TALAVERA",
+        "DIPUTACIÓN",
+        "JUNTA DE COMUNIDADES",
+        "GOBIERNO CENTRAL"
+      ],
+      "compromisos": [
+        "DECISIÓN POLÍTICA",
+        "DECISIÓN PRESUPUESTARIA"
+      ],
+      "descripcion": "Una gestión más eficaz de los recursos e instalaciones del Patronato Ferial para: Incentivar, potenciar y consolidar Talavera como centro de actividad ferial, congresual y de espectáculos y eventos. Reordenar los espacios de forma adecuada para permitir el desarrollo de ferias de diversos tamaños y costes, actividades deportivas, espectáculos, etc. Adecuar el diseño del calendario ferial, con su incremento y diversificación y su inclusión en los calendarios de ferias y congresos regionales, nacionales e internacionales",
+      "impacto": "Referencia de Talavera de la Reina como la gran ciudad ferial del centro-oeste de España. Potenciación de la misma con implicaciones en la actividad económica propia de la ciudad, sobre todo en el sector servicios y, de forma indirecta, como ubicación adecuada para la instalación de nuevas industrias o actividades empresariales"
+    },
+    {
+      "id": 23,
+      "areas": [
+        "INFRAESTRUCTURAS",
+        "MEDIO AMBIENTE"
+      ],
+      "objetivos": "INTEGRACIÓN DEL RÍO TAJO, RACIONALIZACIÓN DE SU USO",
+      "finalizacion": "2018",
+      "administraciones": [
+        "AYUNTAMIENTO DE TALAVERA",
+        "CONFEDERACIÓN HIDROGRÁFICA DEL TAJO",
+        "JUNTA DE COMUNIDADES",
+        "MINISTERIO DE AGRICULTURA, ALIMENTACIÓN Y MEDIO AMBIENTE"
+      ],
+      "compromisos": [
+        "DECISIÓN POLÍTICA",
+        "CONVENIO",
+        "DECISIÓN PRESUPUESTARIA"
+      ],
+      "descripcion": "Aumento el caudal ecológico del río Tajo y del Alberche. Construcción de depuradoras que hagan que el agua que llegue a Talavera sea de calidad y apta para el baño. Recuperación de riveras, dragado y limpieza de fondos. Integración del río y sus islas en la ciudad",
+      "impacto": "Mejora del medio ambiente, de la salud pública de los ciudadanos, atracción de turismo e integración del río en la ciudad. El mantenimiento de esta fuente de vida crearía puestos de trabajo"
+    },
+    {
+      "id": 24,
+      "areas": [
+        "SECTOR PRIMARIO",
+        "MEDIO AMBIENTE"
+      ],
+      "objetivos": "FIN DEL TRASVASE TAJO-SEGURA",
+      "finalizacion": "2018",
+      "administraciones": [
+        "GOBIERNO CENTRAL"
+      ],
+      "compromisos": [
+        "DECISIÓN POLÍTICA PARA APLICAR DIRECTIVAS EUROPEAS Y LA LEY DE AGUAS ESPAÑOLA"
+      ],
+      "descripcion": "Fin del trasvase Tajo-Segura desde su inicio en el embalse de Bolarque (Guadalajara), incrementando caudales ecológicos y tasas de cambio. Aumento indirecto de los recursos en Alberche y de los caudales del mismo en la desembocadura",
+      "impacto": "Recuperación de los usos ambientales, sociales y culturales del Tajo y el Alberche. Incremento de los caudales circulantes en ambos ríos, restaurando su dinámica natural. Multiplicación de la usabilidad de los ríos, con playas fluviales, parques y zonas de recreo. Aumento de la garantía de agua para riego, con la posibilidad de incrementar regadíos. Aumento de la calidad del agua en abastecimiento a Talavera y a localidades del entorno"
+    },
+    {
+      "id": 25,
+      "areas": [
+        "ECONOMÍA",
+        "SOCIAL",
+        "MEDIO AMBIENTE"
+      ],
+      "objetivos": "RECUPERACIÓN INTEGRAL AMBIENTAL Y SOCIAL DE LOS RÍOS TAJO Y ALBERCHE",
+      "finalizacion": "2018",
+      "administraciones": [
+        "AYUNTAMIENTO DE TALAVERA",
+        "JUNTA DE COMUNIDADES",
+        "GOBIERNO CENTRAL"
+      ],
+      "compromisos": [
+        "RECUPERACIÓN DEL TAJO Y EL ALBERCHE DESDE EL PUNTO DE VISTA SOCIAL AMBIENTAL PARA EL DISFRUTE Y USO DE LOS CIUDADANOS"
+      ],
+      "descripcion": "Restauración y recuperación ambiental y social de los ríos Alberche y Tajo a su paso por el término municipal de Talavera de la Reina. Actuaciones de restauración en 2,5 millones de metros cuadrados en dominio público hidráulico y cesiones perimetrales a los ríos del Plan de Ordenación Municipal. Recuperación dinámica fluvial de Alberche y Tajo, con aumento de calidad y caudal circulante. Disposición para la ciudadanía en forma de parques y equipamientos. Apertura del frontal noreste de la ciudad hacia el Tajo",
+      "impacto": "Inversión cuantificable del Estado en la restauración ambiental (cerca de 100-120 millones de euros en cuatro años). Recuperación de la dinámica fluvial a los dos ríos, perdida después de 40 años. Retorno al uso de los ríos como lugares de esparcimiento y disfrute. Verdaderas playas fluviales. Puesta a disposición de la ciudad de 250 hectáreas para usos lúdicos, festivos, deportivos y sociales. Ejemplo demostrativo a gran escala de restauración fluvial y urbana"
+    },
+    {
+      "id": 26,
+      "areas": [
+        "EMPLEO"
+      ],
+      "objetivos": "CREACIÓN DE MÁS Y MEJORES EMPLEOS A TRAVÉS DE LA PARTICIPACIÓN Y COHESIÓN SOCIAL",
+      "finalizacion": "2020",
+      "administraciones": [
+        "AGENTES SOCIALES",
+        "AYUNTAMIENTO DE TALAVERA",
+        "DIPUTACIÓN",
+        "JUNTA DE COMUNIDADES",
+        "GOBIERNO CENTRAL",
+        "UNIÓN EUROPEA"
+      ],
+      "compromisos": [
+        "PACTO POR EL EMPLEO ENTRE ADMINISTRACIONES, SINDICATOS Y ORGANIZACIONES EMPRESARIALES Y SOCIALES"
+      ],
+      "descripcion": "El desempleo es un problema social y en su solución deben estar implicadas todas las partes, estableciendo un programa específico y extraordinario de carácter temporal. Debemos detectar cuáles han sido las causas de fuga de Talento y destrucción de empleo y que sectores sociales y económicos han sido los más afectados. Análisis DAFO del mercado laboral actual para establecer un Plan de Trabajo con las actuaciones a realizar y compromisos mutuos, con el objeto de conseguir la propuesta adecuada a las necesidades reales actuales de Talavera. Una vez identificado el plan, pasaremos a las fases de diseño y elaboración, evaluación, ejecución y seguimiento. Elaboración de planes extraordinarios de empleo como medidas coyunturales de generación de empleo y bienestar social. Creación de oferta pública de empleo en todas las administraciones y dotación de puestos de trabajo acordes a las necesidades de Talavera para prestar unos servicios públicos de calidad. Negociación una oferta pública de empleo en el ámbito local de al menos 130 puestos de trabajo en los próximos años adecuada a las carencias de los servicios",
+      "impacto": "Generación de empleo cualificado y sostenible para evitar la fuga de población. Empleo orientado a los sectores sociales más afectados por la crisis (desempleo larga duración, primer empleo, igualdad de género, jóvenes, mayores). Mejora de los servicios públicos"
+    },
+    {
+      "id": 27,
+      "areas": [
+        "EMPLEO",
+        "INDUSTRIA",
+        "COMERCIO",
+        "AGRICULTURA Y GANADERÍA",
+        "CERÁMICA",
+        "CONSTRUCCIÓN Y VIVIENDA",
+        "TERCER SECTOR"
+      ],
+      "objetivos": "IMPULSO Y DESARROLLO DE MODELOS PRODUCTIVOS Y ECONÓMICOS",
+      "finalizacion": "2020",
+      "administraciones": [
+        "AYUNTAMIENTO DE TALAVERA",
+        "DIPUTACIÓN",
+        "JUNTA DE COMUNIDADES",
+        "GOBIERNO CENTRAL",
+        "UNIÓN EUROPEA"
+      ],
+      "compromisos": [
+        "DECISIÓN POLÍTICA",
+        "DECISIÓN ECONÓMICA",
+        "DECISIÓN PRESUPUESTARIA"
+      ],
+      "descripcion": "Apuesta por un modelo productivo basado en los siguientes sectores: Sector primario: apoyo e impulso del sector primario en la comarca aportando valor añadido por medio de la diversificación y apuesta por el producto ecológico, el consumo de cercanía y el fomento de ferias y mercados, concretamente la puesta en marcha de un Mercado de Productores en el que se proceda a la venta directa de esos productos al consumidor. Artesanía: promoción e implantación de nuevos sistemas productivos y canales de comercialización e internacionalización para la cerámica y demás productos artesanos. Iniciativas dirigidas a la incorporación de los jóvenes a las actividades artesanas. Habilitación de un punto de referencia que se encargue del desarrollo de estas políticas. Comercio: mantenimiento y apoyo a la continuidad del comercio tradicional como seña de identidad de la ciudad. Modernización del sector adaptándolo a la demanda existente y utilizando las nuevas tecnologías de la información. Fidelización del cliente prestando especial atención a la zona natural de influencia. Iniciativas de asesoramiento, formación y adaptación del comerciante actual e incorporación de nuevos comerciantes. Textil: análisis de situación, apoyo a la repatriación de la producción textil y apuesta por 31 fórmulas que le doten de valor añadido dirigidas a la comercialización, diseño e innovación. Con iniciativas de asesoramiento y formación tanto de empresas como de trabajadores. Construcción y vivienda: recuperación del sector de la construcción a través de medidas dirigidas a la rehabilitación de vivienda y la eficiencia energética. Energías renovables y nuevas tecnologías: vincular inversiones a estos sectores y apuesta por un modelo sostenible de abastecimiento energético. Reivindicación del acceso a las tecnologías de la información con niveles de alta calidad tanto en los núcleos urbanos como en las zonas industriales (fibra óptica). Tercer sector: iniciativas de emprendimiento vinculadas al tercer sector",
+      "impacto": "Apuesta por los sectores estratégicos para la ciudad que conlleve un cambio del modelo productivo y a la generación de un modelo económico y de empleo estable y de calidad"
+    },
+    {
+      "id": 28,
+      "areas": [
+        "TRANSVERSAL"
+      ],
+      "objetivos": "DESARROLLO DE POLÍTICAS DE APOYO A LA JUVENTUD",
+      "finalizacion": "2020",
+      "administraciones": [
+        "AYUNTAMIENTO DE TALAVERA",
+        "DIPUTACIÓN",
+        "JUNTA DE COMUNIDADES",
+        "GOBIERNO CENTRAL",
+        "UNIÓN EUROPEA"
+      ],
+      "compromisos": [
+        "DECISIÓN POLÍTICA",
+        "DECISIÓN ECONÓMICA"
+      ],
+      "descripcion": "Hay que luchar decididamente por el bienestar de la ciudadanía en general y, especialmente, por el bienestar de juventud, proporcionando oportunidades en la sociedad para cubrir su demanda de oportunidades laborales, conocimiento, innovación, etc. Ante todo, para evitar la emigración no deseada de la juventud. Por ello, debe ser trasversal el compromiso en todas las áreas de este documento. Todo esto con el compromiso de dotar al menos con el 1% de los recursos municipales propios a estas políticas, contando para su desarrollo con la participación de la juventud y de su Consejo Local",
+      "impacto": "Población juvenil de la ciudad, concretamente 20.257 personas"
+    }
+  ]
+}
